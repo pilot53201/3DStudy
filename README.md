@@ -7,6 +7,9 @@
 
 Ссылки:
 ----------------------------------------------------------------------
+https://vk.com/video/playlist/372198076_1 - плейлист с видео
+
+
 https://www.blender.org/download/ - официальный сайт Blender 3D.
 
 https://store.steampowered.com/app/365670/Blender/ - ссылка на Blender 3D в Steam.
